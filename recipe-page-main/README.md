@@ -11,16 +11,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
 1. Vew from mobile browser<br>
-  ![View from mobile browser](images/mobile.png)<br>
+  ![View from mobile browser](images/mobile.png)<br><br>
 2. View from desktop browser<br>
   ![View from desktop browser](images/desktop.png)<br>
 
