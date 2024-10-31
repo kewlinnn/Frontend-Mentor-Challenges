@@ -19,7 +19,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](images/screenshot.png)
+1. Vew from mobile browser<br>
+  ![View from mobile browser](images/mobile.png)<br>
+2. View from desktop browser<br>
+  ![View from desktop browser](images/desktop.png)<br>
 
 ### Links
 
